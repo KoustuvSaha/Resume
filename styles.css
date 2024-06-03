@@ -1,0 +1,77 @@
+body {
+  font-family: Century Gothic;
+  font-size: 12px;
+  margin: 0;
+}
+
+header {
+  background-color: #aad7fb;
+  color: #084b81;
+  padding: 5px 0 29px;
+  text-align: center;
+}
+
+main {
+  padding: 10px 50px;
+}
+
+p {
+  margin: 0;
+}
+
+.big-heading {
+  font-size: 30px;
+  margin: 10px 0 0px;
+}
+
+.heading-text {
+  font-size: 15px;
+  position: relative;
+  top: 20px;
+  color: black;
+}
+
+.line {
+  background-color: #e3d7da;
+  height: 0.3px;
+  margin: auto;
+  width: 162px;
+}
+
+.line-small {
+  background-color: #e3d7da;
+  height: 0.3px;
+  width: 80px;
+}
+
+.heading {
+  color: #084b81;
+  font-size: 18px;
+  margin: 7px 0 5px;
+}
+
+.text-bold {
+  font-weight: bold;
+}
+
+.list {
+  display: inline-block;
+  margin: 1px 0 5px;
+  padding: 0 0 0 15px;
+  
+}
+
+.courses-list{
+  margin: 1px 0 1px;
+}
+
+.li-skills{
+  width: 47%;
+}
+
+.list li {
+  line-height: 17px;
+}
+.resp span{
+  padding: 0 0 5px;
+ }
